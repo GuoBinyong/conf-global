@@ -1,0 +1,21 @@
+{
+  "name": "global-this",
+  "version": "1.0.0",
+  "description": "global-this 提供了表示全局对象的 globalThis 兼容处理，在没有全局变量 globalThis 的情况下，会自动创建该全局变量",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "sideEffects": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GuoBinyong/global-this"
+  },
+  "keywords": [
+    "global this",
+    "globalThis",
+    "global",
+    "window",
+    "全局对象"
+  ],
+  "author": "郭斌勇",
+  "license": "ISC"
+}
